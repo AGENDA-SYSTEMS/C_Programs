@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "windows-gcc-x64",
+      "includePath": [
+        "${F:\Work\Work53\AgendaCCpp_\v1/**",
+        "${}/**"
+      ],
+      "compilerPath": "C:msys64\mingw64\bingcc.exe",
+      "cStandard": "${default}",
+      "cppStandard": "${default}",
+      "intelliSenseMode": "windows-gcc-x64",
+      "compilerArgs": []
+    }
+  ],
+  "version": 4
+}
